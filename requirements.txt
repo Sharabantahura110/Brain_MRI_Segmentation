@@ -1,0 +1,2 @@
+# One-command editable install (including tests)
+-e .[dev]
